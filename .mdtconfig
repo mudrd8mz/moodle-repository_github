@@ -1,0 +1,4 @@
+MDTVERSION=3.7
+MDTCOMPONENT=repository_github
+MDTRELPATH=repository/github/
+MDTEXPORT=origin/master
